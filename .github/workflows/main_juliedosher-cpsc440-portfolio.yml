@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'JulieDosher-CPSC440-Portfolio'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_12D34AC8ED4B4AABA5E9C289FF80EC83 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F7B1EFE418C74E08BAD2F3B472B6D58D }}
           package: .
