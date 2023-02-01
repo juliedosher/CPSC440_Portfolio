@@ -2,7 +2,7 @@ a {color:black;}
       h1 {text-align: right; font-size: 60pt; margin-top: 8%; margin-right: 30px; font-family: 'Playfair Display', serif;}
       h2 {text-align: right; font-size: 50pt; margin-right: 100px; font-family: 'Playfair Display', serif;}
       h3 {font-size: 22pt; margin-left: 20px;font-family: 'Source Sans Pro', sans-serif; font-weight: 400;}
-      p {margin-left: 50px; font-family: 'Source Sans Pro', sans-serif; font-weight: 300;}
+      p {margin-left: 50px; font-family: 'Source Sans Pro', sans-serif; font-size: 18pt; font-weight: 300;}
      
       #Intro {
         height: 90vh;
