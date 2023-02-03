@@ -26,6 +26,8 @@ a {color:black;}
 
       div.link-gallery img {
         text-align: center;
+        margin-left: 20;
+        margin-right: 20;
       }
 
       div.link-gallery a {
