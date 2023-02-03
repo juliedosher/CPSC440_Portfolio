@@ -6,8 +6,8 @@ https://juliedosher-cpsc440-portfolio.azurewebsites.net
 
 
 Credit:
-Received code for responsive image resizing from W3 Schools.
-https://www.w3schools.com/howto/howto_css_image_responsive.asp
+Received code for responsive image resizing from W3 Schools.  
+https://www.w3schools.com/howto/howto_css_image_responsive.asp  
 Big thanks to W3 Schools for many more helpful guides as well. 
 
 Received free-use background image from Toptal:  
