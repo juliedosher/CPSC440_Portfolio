@@ -1,6 +1,6 @@
 # Portfolio
 
-Author: Julie Dosher, juliegdohser@lewisu.edu  
+Author: Julie Dosher, juliegdosher@lewisu.edu  
 Project: CPSC 440, Sprint 2 - Assignment Portfolio  
 https://juliedosher-cpsc440-portfolio.azurewebsites.net  
 
