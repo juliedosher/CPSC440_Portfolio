@@ -12,12 +12,18 @@ Big thanks to W3 Schools for many more helpful guides as well.
 
 Received free-use background image from Toptal:  
 https://www.toptal.com/designers/subtlepatterns/  
+  
 Received free-use icon images from...  
 www.pngplay.com (Resume),   
 www.freepnglogos.com (Email),   
 www.cdn-icons-png (Github),   
 www.careers.wisc.edu (Handshake),  
 and www.freeiconspng.com (Facebook)  
+  
+Used the following tutorials for implementing node.js:  
+https://blog.back4app.com/how-to-deploy-a-node-js-application-in-azure/  
+https://vegibit.com/render-html-in-node-js/  
+  
  
 All other content original.  
          
