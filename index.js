@@ -5,7 +5,7 @@ let handleRequest = (request, response) => {
     response.writeHead(200, {
         'Content-Type': 'text/html'
     });
-    fs.readFile('./index.html', null, function (error, data) {
+    fs.readFile('./site.html', null, function (error, data) {
         if (error) {
             response.writeHead(404);
             respone.write('Whoops! File not found!');
