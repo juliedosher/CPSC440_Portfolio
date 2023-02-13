@@ -4,10 +4,8 @@ const path = require('path');
 const router = express.Router();
  
 router.get('/',function(req,res){
-  res.sendFile(path.join('/portfolio.html'));
-  //__dirname : It will resolve to your project folder.
+  res.sendFile(path.join('/index.html'));
 });
- 
  
 //add the router
 app.use('/', router);
