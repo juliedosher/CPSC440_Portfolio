@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Author: Julie Dosher, juliegdosher@lewisu.edu   Project: CPSC 440, Sprint 2 - Assignment Portfolio   https://juliedosher-cpsc440-portfolio.azurewebsites.net",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/juliedosher/CPSC440_Portfolio.git"
