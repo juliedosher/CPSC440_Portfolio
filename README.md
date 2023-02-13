@@ -21,6 +21,7 @@ www.careers.wisc.edu (Handshake),
 and www.freeiconspng.com (Facebook)  
   
 Used the following tutorials for implementing node.js:  
+https://codeforgeek.com/render-html-file-expressjs/  
 https://blog.back4app.com/how-to-deploy-a-node-js-application-in-azure/  
 https://vegibit.com/render-html-in-node-js/  
   
