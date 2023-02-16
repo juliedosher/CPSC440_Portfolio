@@ -1,7 +1,7 @@
 {
   "name": "cpsc440_portfolio",
   "version": "1.0.0",
-  "description": "Author: Julie Dosher, juliegdosher@lewisu.edu   Project: CPSC 440, Sprint 2 - Assignment Portfolio   https://juliedosher-cpsc440-portfolio.azurewebsites.net",
+  "description": "Project: CPSC 440, Sprint 2 - Assignment Portfolio",
   "main": "index.js",
   
   "repository": {
@@ -10,6 +10,9 @@
   },
   "author": "Julie Dosher",
   "license": "ISC",
+  "scripts":{
+    "start": "node index.js"
+  },
   "bugs": {
     "url": "https://github.com/juliedosher/CPSC440_Portfolio/issues"
   },
